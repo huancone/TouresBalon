@@ -1,4 +1,4 @@
-#Poyecto TouresBalon
+#Proyecto TouresBalon
 ##Modelado y Validacion de Arquitectura
 ###Especializacion en Arquitectura Empresarial de Software
 
