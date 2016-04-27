@@ -310,7 +310,7 @@
             <sourceConnection xsi:type="archimate:Connection" id="7552ee79" source="23c1f178" target="22eb08e7" relationship="ecd60872"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="bef399c0" textAlignment="2" targetConnections="fc291a6c" archimateElement="7eb7180f">
-            <bounds x="24" y="144" width="136" height="25"/>
+            <bounds x="24" y="156" width="136" height="25"/>
             <sourceConnection xsi:type="archimate:Connection" id="de69c18c" source="bef399c0" target="7991bed8" relationship="2a5670cd"/>
           </child>
         </child>
